@@ -3,7 +3,7 @@ class PagesController < ApplicationController
   end
   def contactUS
   end
-  def aboutsUS
+  def aboutUS
   end
 
  end
