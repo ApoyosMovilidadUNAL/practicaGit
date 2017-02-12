@@ -1,5 +1,5 @@
 Rails.application.routes.draw do
-  root to: 'pages/index'
+  root to: 'pages#index'
   get 'aboutsUS', to: 'pages#aboutsUS'
   
   # For details on the DSL available within this file, see http://guides.rubyonrails.org/routing.html
